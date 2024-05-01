@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-project
+
 # Tic-Tac-Toe-project
 
 This is a basic project building the application Tic-Tac_Toe game for 2 players using Java Swing
