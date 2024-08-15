@@ -29,19 +29,18 @@ Table of contents
   1. **Clone the repository**
      ```bash 
      git clone https://github.com/chill3215/Tic-Tac-Toe-project
-     cd TicTacToe
      ```
   2. **Navigate to the project directory**
      ```bash
-     javac -d bin src/*.java
+     cd Tic-Tac-Toe-project
      ```
   4. **Compile the java file**
      ```bash
-     javac -d bin src/*.java
+     javac Main.java
      ```
   6. **Run the application**
      ```bash
-     java -cp bin TicTacToe
+     java Main
      ```
 
 ## Usage
